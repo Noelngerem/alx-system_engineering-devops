@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 0 string SCHOOL School data
 !:mime School
+=======
+#!/bin/bash
+-C -m h_school.mgc
+>>>>>>> f750267f06aeeedc191a44939608f8bff82c1170
